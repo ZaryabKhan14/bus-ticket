@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f3ae51">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="140dp"
+        android:layout_height="97dp"
+        android:layout_margin="20dp"
+        android:src="@drawable/person" />
+
+    <TextView
+        android:id="@+id/marqee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Admin"
+        android:textSize="28dp"
+        android:layout_marginLeft="50dp"
+        android:textStyle="italic|bold"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

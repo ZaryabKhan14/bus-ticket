@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/buttonshape.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/color.xml" value="0.1109375" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/fromshape.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/ic_baseline_block_24.xml" value="0.1" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.13055555555555556" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/ic_baseline_directions_bus_24.xml" value="0.1" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.13055555555555556" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.1" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/lineshapes.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/drawable/spinner.xml" value="0.13055555555555556" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_admin_homeacticity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_admin_loginformacticity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_adminrecycleviewacticity.xml" value="0.1" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_bookingseats.xml" value="0.18" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_bookseats.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_bus_seats.xml" value="0.22191011235955055" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_home_acticity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_registrationreycleview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_user_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/activity_user_registration.xml" value="0.22" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/admincardviewrecycleview.xml" value="0.18" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/adminheaderlayout.xml" value="0.25" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/adminnavigationlayout.xml" value="0.22" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/busfilterview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/flitercardview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/fragment_admin_recycleview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/fragment_adminhomedesign.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/fragment_homefragment.xml" value="0.20102564102564102" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/hometoolbar.xml" value="0.2" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/navigationheaderlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/layout/registrationcard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/menu/adminmenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Techno/AndroidStudioProjects/BusTicket/app/src/main/res/menu/usernavigationdrawmenu.xml" value="0.1" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/drawable/fromshape.xml" value="0.12" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/drawable/spinner.xml" value="0.1175" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_admin_homeacticity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_admin_loginformacticity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_adminrecycleviewacticity.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_bookingseats.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_bookseats.xml" value="0.1" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_filter_reycleview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_home_acticity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_registrationreycleview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_user_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/activity_user_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/admincardviewrecycleview.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/adminheaderlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/adminnavigationlayout.xml" value="0.15" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/busfilterview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/flitercardview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/fragment_admin_recycleview.xml" value="0.1" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/fragment_adminhomedesign.xml" value="0.13858695652173914" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/fragment_homefragment.xml" value="0.15" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/hometoolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/navigationheaderlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/layout/registrationcard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/menu/adminmenu.xml" value="0.1" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/menu/usernavigationdrawmenu.xml" value="0.1" />
+        <entry key="..\:/Users/asp/Desktop/BusTicket/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

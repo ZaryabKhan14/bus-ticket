@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bus Ticket</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string-array name="bus">
+
+        <item>Bus</item>
+        <item>Mini</item>
+        <item>Coach</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

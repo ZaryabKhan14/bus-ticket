@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundimage"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Adminhomedesign">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="693dp"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="ADD BUS AND ADD NEAR NAME"
+            android:textAlignment="center"
+            android:textColor="#f3ae51"
+            android:textSize="20dp"
+            android:textStyle="bold|italic" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/addnearname"
+            android:layout_width="324dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:textColorHint="@color/black"
+            app:boxStrokeColor="@color/black"
+            app:errorTextColor="@color/black"
+            app:hintTextColor="@color/black"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="310dp"
+                android:layout_height="65dp"
+                android:hint="Add Near Name"
+                android:inputType="text" />
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/addednear"
+                android:layout_width="107dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonshape"
+                android:backgroundTint="#f3ae51"
+                android:text="Added Near"
+                android:textStyle="italic" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/addbus"
+            android:layout_width="324dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:textColorHint="@color/black"
+            app:boxStrokeColor="@color/black"
+            app:hintTextColor="@color/black"
+            app:errorTextColor="@color/black"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:hint="Add Bus Name"
+                android:inputType="text" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="228dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:backgroundTint="@color/black"
+            android:textColorHint="@color/black"
+            app:errorTextColor="@color/black"
+            app:hintTextColor="@color/black">
+
+            <Spinner
+                android:id="@+id/catespiner"
+                android:layout_width="216dp"
+                android:layout_height="37dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/spinner"
+                android:textColor="@color/white" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/addarea"
+            android:layout_width="381dp"
+            android:layout_height="141dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:textColorHint="@color/black"
+            app:boxStrokeColor="@color/black"
+            app:hintTextColor="@color/black"
+            app:errorTextColor="@color/black"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="310dp"
+                android:layout_height="65dp"
+                android:hint="Add Area"
+                android:inputType="text" />
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/added"
+                android:layout_width="107dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonshape"
+
+                android:text="Added"
+                android:textStyle="italic" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+    </LinearLayout>
+
+
+
+</FrameLayout>
